@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Order Analytics System
+#  E-Commerce Order Analytics System
 
 ##  Project Overview
 
