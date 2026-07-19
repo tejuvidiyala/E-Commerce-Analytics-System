@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,  PUMA STATE FICTIO  ,Books,Fiction,42303.55
+2,Dell Gas Fitnes,Sports,Fitness,5325.78
+3,Boat It Skincar,Beauty,Skincare,3842.62
+4,LG Little Wome,Clothing,Women,44671.99
+5,Nike Community Laptop,Electronics,Laptops,21766.6
+6,Dell Entire Mobile,Electronics,Mobiles,9580.21
+7,HP Despite Outdoo,Sports,Outdoor,2576.81
+8,Samsung Move Educationa,Toys,Educational,21437.54
+9,  SONY ANOTHER OUTDOO  ,Sports,Outdoor,10426.95
+10,Puma Maintain Fitnes,Sports,Fitness,15486.83
+11,Puma Agreement Beverage,Grocery,Beverages,13323.72
+12,Dell Baby Snack,Grocery,Snacks,18533.14
+13,HP Purpose Educationa,Toys,Educational,13243.7
+14,Nike Run Fitnes,Sports,Fitness,33406.68
+15,Dell Republican Kid,Clothing,Kids,20757.93
+16,Samsung So Comic,Books,Comics,40938.42
+17,LG Main Beverage,Grocery,Beverages,23865.49
+18,Samsung I Wome,Clothing,Women,45032.71
+19,Puma Gun Kitche,Home,Kitchen,49219.96
+20,  NIKE SKILL FICTIO  ,Books,Fiction,4010.59
+21,Nike Inside Snack,Grocery,Snacks,12968.53
+22,Boat Total Me,Clothing,Men,27647.5
+23,Samsung Day Outdoo,Sports,Outdoor,31190.59
+24,  BOAT INDUSTRY SNACK  ,Grocery,Snacks,28373.04
+25,LG Always Me,Clothing,Men,39308.71
+26,HP Action Haircar,Beauty,Haircare,24330.68
+27,Nike Enough Educationa,Toys,Educational,7278.25
+28,Boat Building Snack,Grocery,Snacks,16641.55
+29,Puma Security Fictio,Books,Fiction,44861.86
+30,HP Whose Laptop,Electronics,Laptops,42158.04
+31,Nike Century Me,Clothing,Men,37211.81
+32,Boat General Haircar,Beauty,Haircare,4555.41
+33,Boat Religious Educationa,Toys,Educational,37998.72
+34,Philips Smile Skincar,Beauty,Skincare,3374.29
+35,Philips Majority Snack,Grocery,Snacks,1544.51
+36,Samsung Memory Fictio,Books,Fiction,22876.79
+37,HP Main Skincar,Beauty,Skincare,23264.5
+38,Samsung Author Snack,Grocery,Snacks,24490.46
+39,Puma Beautiful Educationa,Toys,Educational,17553.02
+40,Apple Official Furnitur,Home,Furniture,19389.63
+41,Sony Realize Deco,Home,Decor,32404.26
+42,Boat Eight Academi,Books,Academic,43245.03
+43,Nike Sell Laptop,Electronics,Laptops,30096.98
+44,HP Left Mobile,Electronics,Mobiles,47155.95
+45,Boat Challenge Outdoo,Sports,Outdoor,23004.0
+46,HP Market Academi,Books,Academic,41233.11
+47,Samsung Tend Snack,Grocery,Snacks,33151.54
+48,HP Family Haircar,Beauty,Haircare,24138.75
+49,Dell Thought Haircar,Beauty,Haircare,13131.23
+50,Nike Color Fitnes,Sports,Fitness,12091.07
+51,Boat Conference Accessorie,Electronics,Accessories,34069.71
+52,Puma This Accessorie,Electronics,Accessories,13045.37
+53,Boat Affect Beverage,Grocery,Beverages,29192.88
+54,Sony Policy Academi,Books,Academic,31951.85
+55,Philips Black Game,Toys,Games,8582.33
+56,Apple Cost Furnitur,Home,Furniture,37071.85
+57,Dell Financial Deco,Home,Decor,11190.45
+58,HP Capital Comic,Books,Comics,44353.49
+59,LG Nor Haircar,Beauty,Haircare,42575.57
+60,LG Site Educationa,Toys,Educational,31070.67
+61,  PHILIPS INCLUDE EDUCATIONA  ,Toys,Educational,34066.82
+62,Samsung Concern Outdoo,Sports,Outdoor,7623.84
+63,Boat Bank Academi,Books,Academic,44652.97
+64,Dell Remain Educationa,Toys,Educational,9099.8
+65,Dell Source Wome,Clothing,Women,8923.53
+66,Puma Activity Mobile,Electronics,Mobiles,38083.54
+67,Nike Research Deco,Home,Decor,38202.1
+68,LG Explain Me,Clothing,Men,21527.55
+69,  BOAT CLASS BEVERAGE  ,Grocery,Beverages,26735.75
+70,Dell Let Skincar,Beauty,Skincare,26598.59
+71,Samsung Help Accessorie,Electronics,Accessories,12516.27
+72,  NIKE COULD HAIRCAR  ,Beauty,Haircare,25216.49
+73,Apple Direction Fitnes,Sports,Fitness,14980.29
+74,Philips Send Outdoo,Sports,Outdoor,16957.97
+75,Puma Already Furnitur,Home,Furniture,9502.46
+76,Sony Walk Snack,Grocery,Snacks,49245.49
+77,Samsung Republican Comic,Books,Comics,8532.34
+78,Boat No Skincar,Beauty,Skincare,12863.88
+79,Samsung Direction Accessorie,Electronics,Accessories,32713.02
+80,Apple Letter Mobile,Electronics,Mobiles,19074.66
+81,Nike Same Outdoo,Sports,Outdoor,34318.43
+82,Boat Anyone Laptop,Electronics,Laptops,33157.9
+83,Boat Think Fitnes,Sports,Fitness,5335.22
+84,Apple Prove Wome,Clothing,Women,24937.18
+85,Philips Talk Academi,Books,Academic,17960.3
+86,  NIKE NECESSARY BEVERAGE  ,Grocery,Beverages,24868.1
+87,Puma Put Comic,Books,Comics,236.63
+88,LG Recognize Me,Clothing,Men,7542.31
+89,Apple Sense Kid,Clothing,Kids,5154.39
+90,Puma Receive Fitnes,Sports,Fitness,14871.51
+91,Apple Watch Educationa,Toys,Educational,43719.61
+92,Dell Board Outdoo,Sports,Outdoor,5883.46
+93,Nike In Mobile,Electronics,Mobiles,8608.56
+94,LG Road Haircar,Beauty,Haircare,36680.09
+95,  NIKE FOOT HAIRCAR  ,Beauty,Haircare,20072.49
+96,Boat Life Game,Toys,Games,23964.43
+97,  APPLE AREA SNACK  ,Grocery,Snacks,36347.91
+98,Boat Piece Kitche,Home,Kitchen,24185.48
+99,LG Above Educationa,Toys,Educational,17994.09
+100,Nike Anything Accessorie,Electronics,Accessories,24457.33
+101,  SAMSUNG SPORT BEVERAGE  ,Grocery,Beverages,32783.18
+102,Philips Huge Accessorie,Electronics,Accessories,28874.79
+103,Dell Speak Comic,Books,Comics,34443.26
+104,Sony Defense Wome,Clothing,Women,33219.16
+105,Philips Woman Snack,Grocery,Snacks,30684.41
+106,Nike Enjoy Accessorie,Electronics,Accessories,23517.52
+107,Apple House Educationa,Toys,Educational,16099.63
+108,Samsung When Haircar,Beauty,Haircare,27569.73
+109,  SONY EDGE BEVERAGE  ,Grocery,Beverages,22265.02
+110,Puma Decision Educationa,Toys,Educational,6023.47
+111,Apple Benefit Educationa,Toys,Educational,1888.01
+112,LG Admit Mobile,Electronics,Mobiles,31913.15
+113,Puma Know Comic,Books,Comics,18230.79
+114,Puma Ahead Mobile,Electronics,Mobiles,38394.08
+115,  PUMA ADDRESS GAME  ,Toys,Games,37990.07
+116,Dell Green Fictio,Books,Fiction,31719.69
+117,  APPLE TEND OUTDOO  ,Sports,Outdoor,8291.35
+118,  BOAT DARK DECO  ,Home,Decor,30581.5
+119,Boat Response Fictio,Books,Fiction,41245.25
+120,  DELL RELATIONSHIP COMIC  ,Books,Comics,20782.07
+121,Puma At Wome,Clothing,Women,47813.9
+122,Samsung Discussion Furnitur,Home,Furniture,2523.72
+123,Philips Us Beverage,Grocery,Beverages,45518.06
+124,  NIKE BIG DECO  ,Home,Decor,32910.34
+125,Boat Subject Haircar,Beauty,Haircare,45803.92
+126,Boat Thing Academi,Books,Academic,48527.53
+127,Nike Then Educationa,Toys,Educational,35030.71
+128,Philips Red Outdoo,Sports,Outdoor,10124.37
+129,Nike Computer Outdoo,Sports,Outdoor,32539.31
+130,Philips Shake Deco,Home,Decor,16186.83
+131,Philips Computer Wome,Clothing,Women,28574.85
+132,Boat Another Beverage,Grocery,Beverages,26184.23
+133,  NIKE JUST LAPTOP  ,Electronics,Laptops,2924.58
+134,HP Music Fitnes,Sports,Fitness,7406.78
+135,HP Box Accessorie,Electronics,Accessories,27104.49
+136,Apple Team Haircar,Beauty,Haircare,33808.75
+137,Philips General Comic,Books,Comics,25595.02
+138,Boat Future Fitnes,Sports,Fitness,47839.43
+139,Samsung Or Skincar,Beauty,Skincare,10234.05
+140,Dell Produce Educationa,Toys,Educational,27376.1
+141,Sony Customer Comic,Books,Comics,8953.55
+142,Nike Probably Me,Clothing,Men,6055.76
+143,HP Despite Laptop,Electronics,Laptops,6590.32
+144,Dell World Fitnes,Sports,Fitness,46880.97
+145,Dell Number Mobile,Electronics,Mobiles,38705.68
+146,LG Indicate Outdoo,Sports,Outdoor,3736.75
+147,Nike Wrong Skincar,Beauty,Skincare,39334.29
+148,Philips Later Furnitur,Home,Furniture,4688.08
+149,Dell Camera Fictio,Books,Fiction,14749.36
+150,Apple Each Educationa,Toys,Educational,22338.8
+151,Dell Different Fictio,Books,Fiction,39830.71
+152,HP Born Wome,Clothing,Women,14213.17
+153,  PUMA HEAVY HAIRCAR  ,Beauty,Haircare,44924.25
+154,  PHILIPS GAME ACADEMI  ,Books,Academic,4888.23
+155,Apple Consumer Accessorie,Electronics,Accessories,31512.77
+156,Boat Administration Comic,Books,Comics,10358.42
+157,  NIKE INTEREST SNACK  ,Grocery,Snacks,35871.73
+158,  APPLE READY MOBILE  ,Electronics,Mobiles,39731.32
+159,Sony Four Kid,Clothing,Kids,20440.88
+160,Boat Actually Game,Toys,Games,19536.14
+161,Samsung Improve Kid,Clothing,Kids,30955.63
+162,Apple Difference Accessorie,Electronics,Accessories,25191.56
+163,  LG LOW OUTDOO  ,Sports,Outdoor,38287.18
+164,Boat Discussion Game,Toys,Games,1637.88
+165,  SONY ATTORNEY DECO  ,Home,Decor,19610.53
+166,HP Really Fitnes,Sports,Fitness,45717.03
+167,Philips Teacher Skincar,Beauty,Skincare,7154.56
+168,LG Family Mobile,Electronics,Mobiles,26903.89
+169,Sony Rate Wome,Clothing,Women,45186.96
+170,Boat Price Skincar,Beauty,Skincare,42587.8
+171,Nike Home Kitche,Home,Kitchen,41753.94
+172,Nike Animal Fictio,Books,Fiction,28407.9
+173,Puma Audience Accessorie,Electronics,Accessories,3749.91
+174,Apple Value Wome,Clothing,Women,29071.72
+175,Nike Discover Haircar,Beauty,Haircare,11803.19
+176,Sony Item Fitnes,Sports,Fitness,22587.23
+177,LG Fish Fitnes,Sports,Fitness,40404.22
+178,Samsung Speak Snack,Grocery,Snacks,39304.44
+179,  DELL PLACE BEVERAGE  ,Grocery,Beverages,36675.34
+180,Puma Money Game,Toys,Games,15343.04
+181,  LG BLUE ME  ,Clothing,Men,14102.74
+182,Sony Seem Deco,Home,Decor,44328.16
+183,Apple Not Kid,Clothing,Kids,42494.4
+184,LG Strong Accessorie,Electronics,Accessories,29542.81
+185,HP Win Accessorie,Electronics,Accessories,49936.54
+186,Dell To Educationa,Toys,Educational,44582.73
+187,Puma Outside Fitnes,Sports,Fitness,4618.65
+188,Sony Congress Skincar,Beauty,Skincare,40346.35
+189,Nike Enter Deco,Home,Decor,9039.34
+190,Puma Beyond Deco,Home,Decor,2116.95
+191,Apple Plan Educationa,Toys,Educational,11777.53
+192,Dell Garden Comic,Books,Comics,45903.31
+193,  DELL PROGRAM MOBILE  ,Electronics,Mobiles,48425.23
+194,LG Same Outdoo,Sports,Outdoor,8775.11
+195,LG Important Beverage,Grocery,Beverages,41789.91
+196,Sony Resource Outdoo,Sports,Outdoor,17709.61
+197,Puma Window Haircar,Beauty,Haircare,429.22
+198,Nike Spend Furnitur,Home,Furniture,25775.61
+199,Nike Rule Fitnes,Sports,Fitness,18174.92
+200,Sony Cell Kid,Clothing,Kids,16578.22
+201,Puma Go Wome,Clothing,Women,29580.47
+202,  SONY CONTINUE SNACK  ,Grocery,Snacks,28716.98
+203,  PHILIPS PROVE KITCHE  ,Home,Kitchen,28656.24
+204,HP Sort Mobile,Electronics,Mobiles,25880.37
+205,HP Usually Snack,Grocery,Snacks,10908.01
+206,Nike Rise Game,Toys,Games,20597.27
+207,Nike Friend Deco,Home,Decor,25589.16
+208,Dell Today Deco,Home,Decor,29867.01
+209,Boat Reflect Me,Clothing,Men,5517.65
+210,Philips Meet Comic,Books,Comics,41343.06
+211,Puma Author Me,Clothing,Men,30030.71
+212,Puma Government Me,Clothing,Men,45109.04
+213,Boat Affect Accessorie,Electronics,Accessories,18581.83
+214,Philips Politics Accessorie,Electronics,Accessories,46927.24
+215,Dell Which Game,Toys,Games,37095.56
+216,Nike Pay Wome,Clothing,Women,38316.36
+217,LG List Wome,Clothing,Women,20491.47
+218,Samsung Idea Fictio,Books,Fiction,5979.65
+219,Sony Much Laptop,Electronics,Laptops,15863.5
+220,Nike Push Skincar,Beauty,Skincare,29309.97
+221,LG Site Outdoo,Sports,Outdoor,13850.47
+222,Boat Early Snack,Grocery,Snacks,27922.38
+223,Philips Most Furnitur,Home,Furniture,12763.5
+224,Boat People Outdoo,Sports,Outdoor,42764.45
+225,Sony Sea Kid,Clothing,Kids,34995.64
+226,Sony Add Kitche,Home,Kitchen,39325.45
+227,Boat Early Mobile,Electronics,Mobiles,364.0
+228,Puma Against Me,Clothing,Men,21825.33
+229,Sony Practice Wome,Clothing,Women,30490.54
+230,LG Song Beverage,Grocery,Beverages,14394.81
+231,Puma Watch Mobile,Electronics,Mobiles,10165.19
+232,Samsung Capital Fitnes,Sports,Fitness,25576.34
+233,Nike For Comic,Books,Comics,18051.03
+234,Apple Economic Mobile,Electronics,Mobiles,39005.68
+235,Boat Sing Haircar,Beauty,Haircare,25935.36
+236,Philips Later Me,Clothing,Men,41505.26
+237,HP Sometimes Haircar,Beauty,Haircare,48156.55
+238,  LG EITHER GAME  ,Toys,Games,8834.24
+239,Apple President Kid,Clothing,Kids,17064.3
+240,HP Base Kid,Clothing,Kids,40676.05
+241,Boat As Outdoo,Sports,Outdoor,38521.36
+242,Puma Certain Haircar,Beauty,Haircare,43114.96
+243,  HP HOUSE EDUCATIONA  ,Toys,Educational,31719.72
+244,Sony Moment Comic,Books,Comics,20680.06
+245,HP Fine Skincar,Beauty,Skincare,4741.17
+246,Philips Defense Skincar,Beauty,Skincare,23880.12
+247,LG Civil Skincar,Beauty,Skincare,47361.19
+248,Sony How Academi,Books,Academic,12178.62
+249,Sony Democratic Fitnes,Sports,Fitness,12559.8
+250,  APPLE QUALITY SKINCAR  ,Beauty,Skincare,4016.53
+251,Philips Always Educationa,Toys,Educational,42415.73
+252,Puma Economy Haircar,Beauty,Haircare,44061.26
+253,Nike Wind Outdoo,Sports,Outdoor,45808.74
+254,Sony Share Outdoo,Sports,Outdoor,6499.47
+255,  PHILIPS PIECE BEVERAGE  ,Grocery,Beverages,17429.72
+256,Apple Young Furnitur,Home,Furniture,23057.52
+257,Sony Life Mobile,Electronics,Mobiles,5127.32
+258,Nike Single Haircar,Beauty,Haircare,11933.24
+259,Dell Understand Game,Toys,Games,21254.75
+260,Dell Get Beverage,Grocery,Beverages,14053.51
+261,Nike Center Deco,Home,Decor,34331.99
+262,HP Fall Kid,Clothing,Kids,27811.47
+263,Nike Friend Snack,Grocery,Snacks,36953.25
+264,Nike Quickly Educationa,Toys,Educational,6810.14
+265,HP Stop Haircar,Beauty,Haircare,42939.25
+266,Apple Soon Laptop,Electronics,Laptops,3095.82
+267,Apple Among Outdoo,Sports,Outdoor,16799.36
+268,Philips Near Haircar,Beauty,Haircare,40519.79
+269,  BOAT STRONG SKINCAR  ,Beauty,Skincare,43381.69
+270,LG Join Comic,Books,Comics,26968.07
+271,Dell Raise Outdoo,Sports,Outdoor,24425.94
+272,Boat Tax Educationa,Toys,Educational,23241.23
+273,Dell Fight Kitche,Home,Kitchen,30654.28
+274,Apple Social Snack,Grocery,Snacks,11488.08
+275,HP Agent Haircar,Beauty,Haircare,19833.22
+276,LG Drop Game,Toys,Games,22569.4
+277,  SAMSUNG THROW KITCHE  ,Home,Kitchen,11807.9
+278,Sony Significant Fitnes,Sports,Fitness,5240.16
+279,  PHILIPS GLASS WOME  ,Clothing,Women,38569.59
+280,HP Guess Me,Clothing,Men,4307.13
+281,Sony Eight Beverage,Grocery,Beverages,14280.35
+282,Philips Describe Kitche,Home,Kitchen,1525.71
+283,Puma Notice Haircar,Beauty,Haircare,43557.82
+284,Nike Arm Outdoo,Sports,Outdoor,34911.38
+285,LG What Deco,Home,Decor,37470.69
+286,Dell Whose Beverage,Grocery,Beverages,11433.71
+287,HP Red Wome,Clothing,Women,13064.37
+288,Samsung Energy Fitnes,Sports,Fitness,37938.84
+289,HP Suddenly Furnitur,Home,Furniture,515.02
+290,  HP RIGHT GAME  ,Toys,Games,21578.72
+291,Samsung Safe Fitnes,Sports,Fitness,9509.69
+292,Sony Serve Beverage,Grocery,Beverages,36882.18
+293,Sony Doctor Beverage,Grocery,Beverages,21169.75
+294,LG Political Comic,Books,Comics,34263.55
+295,Boat Turn Outdoo,Sports,Outdoor,3516.35
+296,Apple I Furnitur,Home,Furniture,30924.7
+297,Sony Near Outdoo,Sports,Outdoor,7692.25
+298,Apple Fund Mobile,Electronics,Mobiles,6339.46
+299,  SONY COVER EDUCATIONA  ,Toys,Educational,834.77
+300,Boat Letter Academi,Books,Academic,39993.17
+301,Samsung Professional Haircar,Beauty,Haircare,42192.96
+302,HP According Kitche,Home,Kitchen,3662.1
+303,Sony Attention Educationa,Toys,Educational,12578.97
+304,Apple True Snack,Grocery,Snacks,35762.66
+305,Sony Million Beverage,Grocery,Beverages,1772.16
+306,Philips Available Educationa,Toys,Educational,10501.51
+307,Dell Data Beverage,Grocery,Beverages,36439.03
+308,Puma Area Wome,Clothing,Women,10016.31
+309,Sony Protect Accessorie,Electronics,Accessories,11874.7
+310,Samsung Chance Beverage,Grocery,Beverages,13877.39
+311,  SONY WRITER WOME  ,Clothing,Women,2195.47
+312,Dell Democratic Educationa,Toys,Educational,12511.24
+313,LG Car Educationa,Toys,Educational,48485.62
+314,Dell Benefit Mobile,Electronics,Mobiles,35096.27
+315,Puma Consumer Me,Clothing,Men,49085.62
+316,  SONY PERSON HAIRCAR  ,Beauty,Haircare,18950.67
+317,Samsung Often Furnitur,Home,Furniture,21931.25
+318,Sony Theory Outdoo,Sports,Outdoor,27226.67
+319,HP Stuff Haircar,Beauty,Haircare,29974.13
+320,Philips Work Kitche,Home,Kitchen,14854.07
+321,  PUMA DEMOCRATIC OUTDOO  ,Sports,Outdoor,31937.5
+322,Samsung Eat Snack,Grocery,Snacks,18267.35
+323,Apple Movement Academi,Books,Academic,26993.93
+324,Philips Bar Snack,Grocery,Snacks,38310.13
+325,HP Last Deco,Home,Decor,32081.11
+326,Philips Share Me,Clothing,Men,2284.49
+327,Samsung Manage Kitche,Home,Kitchen,24319.98
+328,LG Foreign Me,Clothing,Men,19491.08
+329,Samsung Community Game,Toys,Games,30337.09
+330,Sony Set Me,Clothing,Men,46427.35
+331,Samsung Decade Wome,Clothing,Women,37199.52
+332,Samsung Election Beverage,Grocery,Beverages,13364.2
+333,Apple Language Accessorie,Electronics,Accessories,3988.98
+334,  APPLE CONTROL COMIC  ,Books,Comics,11627.8
+335,Sony Police Snack,Grocery,Snacks,12513.28
+336,Philips Energy Deco,Home,Decor,5365.16
+337,Boat Floor Haircar,Beauty,Haircare,8423.79
+338,Boat Feeling Deco,Home,Decor,32910.84
+339,Dell Part Game,Toys,Games,49842.83
+340,Boat List Haircar,Beauty,Haircare,16240.2
+341,Philips Prove Comic,Books,Comics,38308.84
+342,Puma Defense Outdoo,Sports,Outdoor,19914.82
+343,  LG EXPERT LAPTOP  ,Electronics,Laptops,6840.78
+344,HP Travel Fitnes,Sports,Fitness,10819.66
+345,HP Station Skincar,Beauty,Skincare,25612.45
+346,Samsung Medical Kitche,Home,Kitchen,7889.74
+347,LG Base Outdoo,Sports,Outdoor,12886.57
+348,LG Here Fitnes,Sports,Fitness,45902.3
+349,Dell Information Kid,Clothing,Kids,8727.83
+350,  HP HUGE KID  ,Clothing,Kids,40436.22
+351,Samsung Computer Snack,Grocery,Snacks,16786.04
+352,Apple Market Beverage,Grocery,Beverages,11413.21
+353,  BOAT LET ACCESSORIE  ,Electronics,Accessories,26266.73
+354,Dell Knowledge Skincar,Beauty,Skincare,11117.78
+355,Boat Mouth Accessorie,Electronics,Accessories,37666.73
+356,Boat Poor Me,Clothing,Men,19776.69
+357,Apple Simple Furnitur,Home,Furniture,37291.22
+358,Apple Lead Beverage,Grocery,Beverages,21781.11
+359,Puma Soon Kitche,Home,Kitchen,24444.27
+360,LG Clearly Comic,Books,Comics,26259.96
+361,HP Ten Fictio,Books,Fiction,16238.24
+362,Boat Student Me,Clothing,Men,17480.56
+363,LG Meet Haircar,Beauty,Haircare,38507.1
+364,LG Again Furnitur,Home,Furniture,40159.52
+365,Samsung Sound Furnitur,Home,Furniture,11751.13
+366,  APPLE I SKINCAR  ,Beauty,Skincare,2821.45
+367,Samsung Late Furnitur,Home,Furniture,40233.61
+368,  PUMA TOO OUTDOO  ,Sports,Outdoor,10529.58
+369,Philips Because Fictio,Books,Fiction,13007.03
+370,Samsung Song Educationa,Toys,Educational,45311.41
+371,  NIKE WHAT LAPTOP  ,Electronics,Laptops,10114.73
+372,Puma Will Fitnes,Sports,Fitness,515.88
+373,Dell First Beverage,Grocery,Beverages,1052.01
+374,Boat Physical Snack,Grocery,Snacks,35513.47
+375,LG Note Haircar,Beauty,Haircare,9402.23
+376,Samsung Claim Educationa,Toys,Educational,26517.83
+377,Boat On Haircar,Beauty,Haircare,1016.77
+378,HP Short Haircar,Beauty,Haircare,48914.39
+379,HP Continue Fitnes,Sports,Fitness,44531.06
+380,HP Even Accessorie,Electronics,Accessories,17155.13
+381,Apple Husband Snack,Grocery,Snacks,26083.82
+382,Sony Major Academi,Books,Academic,21380.6
+383,Puma Follow Outdoo,Sports,Outdoor,10417.19
+384,Philips Long Deco,Home,Decor,10195.28
+385,Philips Federal Furnitur,Home,Furniture,21560.21
+386,LG How Deco,Home,Decor,15943.06
+387,Dell Or Me,Clothing,Men,7361.59
+388,Boat Police Laptop,Electronics,Laptops,15237.07
+389,  SONY MEDICAL FITNES  ,Sports,Fitness,9318.85
+390,LG Away Fitnes,Sports,Fitness,34400.16
+391,  PUMA GOAL SKINCAR  ,Beauty,Skincare,42322.3
+392,Nike Century Game,Toys,Games,24623.14
+393,Sony Senior Kitche,Home,Kitchen,20488.6
+394,Boat Manager Laptop,Electronics,Laptops,33599.82
+395,Apple Deal Fictio,Books,Fiction,47739.48
+396,Dell Clear Game,Toys,Games,44390.59
+397,Samsung Whom Beverage,Grocery,Beverages,41233.99
+398,LG Customer Haircar,Beauty,Haircare,28639.53
+399,Apple Above Accessorie,Electronics,Accessories,41367.8
+400,Philips Add Mobile,Electronics,Mobiles,49193.15
+401,Boat Training Accessorie,Electronics,Accessories,31569.36
+402,HP Month Mobile,Electronics,Mobiles,44231.44
+403,Nike Show Outdoo,Sports,Outdoor,30695.4
+404,Philips Share Accessorie,Electronics,Accessories,23232.59
+405,  PHILIPS HOUSE EDUCATIONA  ,Toys,Educational,38958.68
+406,Boat Million Furnitur,Home,Furniture,1343.11
+407,  PUMA INTERVIEW EDUCATIONA  ,Toys,Educational,16271.33
+408,  APPLE WISH DECO  ,Home,Decor,35340.71
+409,Philips Just Skincar,Beauty,Skincare,36371.0
+410,Philips Yard Furnitur,Home,Furniture,38436.19
+411,Nike Indicate Skincar,Beauty,Skincare,9025.45
+412,HP Situation Laptop,Electronics,Laptops,38454.66
+413,  NIKE HOUR GAME  ,Toys,Games,6665.39
+414,LG If Fictio,Books,Fiction,709.17
+415,Philips Might Game,Toys,Games,30438.4
+416,Sony Foot Educationa,Toys,Educational,23838.03
+417,Apple Put Beverage,Grocery,Beverages,427.99
+418,Samsung Per Fitnes,Sports,Fitness,2847.69
+419,Nike Avoid Skincar,Beauty,Skincare,33383.13
+420,  APPLE ISSUE OUTDOO  ,Sports,Outdoor,20906.15
+421,HP Value Kitche,Home,Kitchen,34606.53
+422,LG American Furnitur,Home,Furniture,1888.42
+423,Dell Will Outdoo,Sports,Outdoor,41031.21
+424,HP Capital Snack,Grocery,Snacks,6188.96
+425,Philips Image Outdoo,Sports,Outdoor,10571.28
+426,  SAMSUNG WORK COMIC  ,Books,Comics,36513.45
+427,LG Others Wome,Clothing,Women,49315.29
+428,LG Commercial Outdoo,Sports,Outdoor,13057.04
+429,LG Daughter Skincar,Beauty,Skincare,26033.32
+430,Nike Source Game,Toys,Games,11712.81
+431,  SAMSUNG LEAST FITNES  ,Sports,Fitness,23297.79
+432,Sony Especially Kid,Clothing,Kids,49949.45
+433,Dell Spend Snack,Grocery,Snacks,40321.57
+434,Sony White Fictio,Books,Fiction,12795.43
+435,HP Society Wome,Clothing,Women,16263.8
+436,Dell Seven Mobile,Electronics,Mobiles,36247.39
+437,Sony Happen Mobile,Electronics,Mobiles,16963.05
+438,Samsung Mr Game,Toys,Games,24126.63
+439,Puma Security Game,Toys,Games,20756.26
+440,HP Middle Accessorie,Electronics,Accessories,33942.06
+441,LG Prove Mobile,Electronics,Mobiles,39996.81
+442,Nike Risk Skincar,Beauty,Skincare,1655.54
+443,LG Home Snack,Grocery,Snacks,9450.21
+444,Dell Same Wome,Clothing,Women,13647.72
+445,Sony Article Wome,Clothing,Women,41489.93
+446,Philips Rather Fitnes,Sports,Fitness,5700.34
+447,Apple Image Mobile,Electronics,Mobiles,1344.25
+448,Sony With Educationa,Toys,Educational,24225.25
+449,Nike Language Outdoo,Sports,Outdoor,5002.75
+450,Samsung Simply Kitche,Home,Kitchen,35712.5
+451,HP Employee Me,Clothing,Men,34383.91
+452,Puma Eight Wome,Clothing,Women,5244.83
+453,LG Mean Fitnes,Sports,Fitness,31978.66
+454,Sony Already Academi,Books,Academic,13904.81
+455,Apple Will Haircar,Beauty,Haircare,7959.05
+456,LG Tax Me,Clothing,Men,5208.53
+457,  HP HIGH HAIRCAR  ,Beauty,Haircare,35247.25
+458,  NIKE PROGRAM FITNES  ,Sports,Fitness,30701.82
+459,  SAMSUNG SEAT HAIRCAR  ,Beauty,Haircare,23589.71
+460,  BOAT REQUIRE MOBILE  ,Electronics,Mobiles,21380.64
+461,LG Ahead Deco,Home,Decor,31510.59
+462,HP Save Game,Toys,Games,9987.54
+463,  LG REDUCE WOME  ,Clothing,Women,40661.27
+464,Puma Quite Educationa,Toys,Educational,32256.49
+465,Sony Choose Game,Toys,Games,7271.71
+466,Boat Every Outdoo,Sports,Outdoor,45871.49
+467,Puma Point Haircar,Beauty,Haircare,3361.72
+468,Puma Lose Wome,Clothing,Women,8623.0
+469,  PHILIPS YET SKINCAR  ,Beauty,Skincare,40895.89
+470,Philips Responsibility Wome,Clothing,Women,39642.3
+471,LG Choice Game,Toys,Games,31081.65
+472,  BOAT ENVIRONMENTAL FURNITUR  ,Home,Furniture,10491.08
+473,LG End Beverage,Grocery,Beverages,27271.89
+474,Apple Play Fictio,Books,Fiction,35624.25
+475,LG Particular Educationa,Toys,Educational,16336.37
+476,Nike Recognize Wome,Clothing,Women,20349.11
+477,LG Thought Kid,Clothing,Kids,19007.66
+478,Apple Color Educationa,Toys,Educational,7031.95
+479,Nike Actually Mobile,Electronics,Mobiles,14646.01
+480,Sony But Educationa,Toys,Educational,15898.23
+481,Dell Spend Outdoo,Sports,Outdoor,29178.08
+482,  HP BEST SNACK  ,Grocery,Snacks,45063.68
+483,Philips Quickly Mobile,Electronics,Mobiles,18026.31
+484,Sony Seek Fitnes,Sports,Fitness,29549.18
+485,Boat Whom Haircar,Beauty,Haircare,27301.43
+486,Nike If Furnitur,Home,Furniture,19291.29
+487,Nike Information Haircar,Beauty,Haircare,43649.51
+488,  SAMSUNG SEAT KITCHE  ,Home,Kitchen,883.82
+489,  NIKE PEACE GAME  ,Toys,Games,32147.92
+490,LG Wear Beverage,Grocery,Beverages,31200.1
+491,Philips Be Game,Toys,Games,19297.26
+492,Boat National Fictio,Books,Fiction,28939.13
+493,Philips Where Comic,Books,Comics,46335.57
+494,Samsung Current Skincar,Beauty,Skincare,35273.64
+495,Puma Under Kid,Clothing,Kids,4095.15
+496,  PHILIPS LAND OUTDOO  ,Sports,Outdoor,44506.78
+497,Puma Company Me,Clothing,Men,33220.47
+498,Philips Themselves Kid,Clothing,Kids,15693.74
+499,Philips Late Laptop,Electronics,Laptops,23496.55
+500,Boat Entire Game,Toys,Games,48890.25
