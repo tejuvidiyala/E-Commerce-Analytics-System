@@ -47,7 +47,7 @@ The goal of this project is to clean these datasets, enforce relational integrit
 
 The primary objectives of this project are:
 
-### ✔ Generate realistic e-commerce datasets
+###  Generate realistic e-commerce datasets
 
 Create datasets representing:
 
@@ -217,11 +217,10 @@ ecommerce-analytics-system/
 │   ├── window_functions.sql
 │   └── cohort_analysis.sql
 │
-├── output/
+├── sample_outputs/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
 
 ---
